@@ -8,6 +8,7 @@ public class ProblemSet11 {
 
     public static void main(String[] args) {
 
+        /*
         ProblemSet11 woo = new ProblemSet11();
 
         //ArrayList<Integer> list = new ArrayList<>();
@@ -28,7 +29,7 @@ public class ProblemSet11 {
         System.out.print(woo.countClumps(list));
 
 
-
+        */
 
     }
 
